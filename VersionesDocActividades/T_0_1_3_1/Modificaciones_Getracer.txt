@@ -1,0 +1,9 @@
+-Modificado algunas consultas de datos para ordenar estes mediante sus ID's
+-Modificado Insertar_Valor para que filtre las características automáticamente al seleccionar previamente el id del tipo 
+de elemento.
+-Modificado Gestion_Valores para que al seleccionar un tipo de elemento muestre luego las características que le corresponden
+a el.
+-Modificado errores de consultas sql.
+-Modificado Gestion Elementos para cuando insertes un nuevo elemento en el id_padre solo aparezcan los elementos de tipo 1
+-Añadido Módulo de Visualizar los subelementos de un elemento superior con sus características y sus valores.Añadido en 
+ Gestión Elementos->Consultar Elementos.
