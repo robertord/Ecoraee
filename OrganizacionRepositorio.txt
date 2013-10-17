@@ -1,0 +1,11 @@
+DocumentacionActividades
+	Documentacion final de las actividades
+
+VersionesDocActividades
+	Zona de trabajo para fuentes, imagenes y elementos parciales que se incluyen en los documentos finales
+
+DocumentacionBase
+	Documentos de definición del  proyecto
+
+Plantillas
+	Documentos plantilla del proyecto 
