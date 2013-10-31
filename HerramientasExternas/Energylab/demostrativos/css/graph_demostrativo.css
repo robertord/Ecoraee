@@ -1,0 +1,36 @@
+svg{
+  font: 10px sans-serif;
+}
+
+path {
+  fill:silver;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: silver;
+    stroke-width: 1.2px;
+}
+.tick line{
+    opacity: 0.7;
+    stroke: lightgrey;
+    stroke-width: 1px;
+    stroke-dasharray: 3, 3;
+}
+.tick text{
+  /*  stroke: black;*/
+    stroke-width: 0;
+}
