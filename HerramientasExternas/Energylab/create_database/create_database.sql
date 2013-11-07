@@ -308,7 +308,7 @@ COMMENT=''
 #
 # Definition for the `set_dacumulativo_fecha` procedure : 
 #
-
+DELIMITER //
 CREATE PROCEDURE `set_dacumulativo_fecha`(
         IN `v_demostrativo_diario_id` INTEGER
     )
@@ -417,12 +417,12 @@ BEGIN
       FROM demostrativo_diario      
       WHERE demostrativo_id = var_demostrativo_id
       AND `date` <= var_date;   
-END;
-
+END//
+DELIMITER ;
 #
 # Definition for the `check_data_demostrativo_diario` procedure : 
 #
-
+DELIMITER //
 CREATE DEFINER = 'energylab_demo'@'%' PROCEDURE `check_data_demostrativo_diario`(
         IN `v_demostrativo_diario_id` INTEGER
     )
@@ -578,12 +578,12 @@ BEGIN
     WHERE id = v_demostrativo_diario_id;    
     
     CALL set_dacumulativo_fecha(v_demostrativo_diario_id );
-END;
-
+END//
+DELIMITER ;
 #
 # Definition for the `insert_test_data` procedure : 
 #
-
+DELIMITER //
 CREATE PROCEDURE `insert_test_data`(
         IN `n_dias` INTEGER
     )
@@ -906,12 +906,12 @@ label1: LOOP
     LEAVE label1;
 END LOOP label1;   
 
-END;
-
+END//
+DELIMITER ;
 #
 # Definition for the `update_acumulativos_from_date` procedure : 
 #
-
+DELIMITER //
 CREATE DEFINER = 'energylab_demo'@'%' PROCEDURE `update_acumulativos_from_date`(
         IN `var_demostrativo_id` INTEGER,
         IN `var_date` DATE
@@ -946,8 +946,8 @@ BEGIN
       LEAVE label1;    
     END LOOP label1;
     UPDATE demostrativo SET is_loading = 0 WHERE id = var_demostrativo_id;
- END;
-
+ END//
+DELIMITER ;
 #
 # Definition for the `demostrativo_1_diario` view : 
 #
@@ -4853,6 +4853,7 @@ COMMIT;
 
 
 DROP PROCEDURE IF EXISTS energylab_demostrativos.check_data_demostrativo_diario;
+DELIMITER //
 CREATE PROCEDURE energylab_demostrativos.`check_data_demostrativo_diario`(
         IN `v_demostrativo_diario_id` INTEGER
     )
@@ -5004,8 +5005,8 @@ BEGIN
     WHERE id = v_demostrativo_diario_id;    
     
     CALL set_dacumulativo_fecha(v_demostrativo_diario_id );
-END;
-
+END//
+DELIMITER ;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
