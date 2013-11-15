@@ -1,0 +1,96 @@
+					Parseado XML python versión v1
+
+Nombre : parserGetracer.py
+Creado por: Roberto Rosende Dopazo y Manuel Cid Gómez
+Fecha : 14/11/2013
+Formato : Python (.py)
+Versión : v1
+
+-Funcionalidad:
+
+Filtracion de datos de un fichero xml que contiene los datos de los pcs mediante la función lshw de linux.
+
+Insertar en la base de datos cada uno de los elementos que encontremos junto a sus características de forma automática.
+
+Muestra el ID correspondiente al elemento padre crado.
+
+-Ejecución : 
+
+Para poder ejecutar el programa en linux usamos el siguiente comando
+		
+		python parserGetracer.py [nombre del fichero xml]
+Ejemplo
+		python parserGetracer.py lshw-PC0001.xml
+		
+
+-Observaciones :
+
+Todo esto está pensado para ser usado sobre la herramienta Getracer. Así como los inserts creados van incluir en ellos
+ID's definidos a priori sobre la herramienta.Cualquier modificación tendrá que tener en cuenta siempre los datos de Getracer previamente definidos.
+
+Tener siempre en cuenta los datos para la conexion a MySQL que se encuentran al principio del script
+
+
+-Elementos que admite y características:
+
+Al ejecutar el programa se va visualizar en este orden los elementos y la inserción de los mismos en la base de datos 
+igual.
+
+	CDROM  :
+		-Descripción
+		-Vendedor
+		-Producto
+
+	Targeta de Red :
+
+		-Descrición
+		-Vendedor
+		-Producto
+		-Nº Bits
+
+	Display :
+		-Descripción
+		-Vendedor
+		-Producto
+
+	Multimedia:
+		-Descripción
+		-Vendedor
+		-Producto
+
+	Placa Base :
+		-Descripción
+		-Vendedor
+		-Producto
+
+	Fuente de alimentación:
+		-Descripción
+		-Vendedor
+		-Producto
+
+	Procesador :
+		-Descripción
+		-Vendedor
+		-Producto
+		-Nº de Bits
+
+	Disco Duro :
+		-Descripción
+		-Vendedor
+		-Producto
+		-Tamaño(GB)
+
+	Memoria Ram :
+		-Descripción
+		-Vendedor
+		-Producto
+		-Tamaño(Mb)
+		-Frecuencia(Se muestran en Hz pero se guarda en la base de datos como MHz)
+		-Nº Bits
+
+
+-Posibles mejoras:
+
+Al crear un elemento nuevo se omite el atributo 'fecha' por lo cual en la base de datos guarda un NULL.Sería una posible mejora solucionar este inconveniente.
+Introdución de nuevos elementos y de nuevos atributos.
+Mejora de la presentación visual del contenido.
