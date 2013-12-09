@@ -6,10 +6,10 @@ from lxml import etree
 id_max=0
 id_padre=0
 # Datos para la conexion a MySQL
-mysql_servidor = ''
-mysql_usuario  = ''
-mysql_clave    = ''
-mysql_bd       = ''
+mysql_servidor = 'localhost'
+mysql_usuario  = 'root'
+mysql_clave    = '#padege#'
+mysql_bd       = 'getracer'
 
 db = MySQLdb.connect(host=mysql_servidor, user=mysql_usuario, passwd=mysql_clave, db=mysql_bd)
 cursor=db.cursor()
