@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2013-07-29" view-index="0" gantt-divider-location="524" resource-divider-location="300" version="2.0" locale="es_ES">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2013-09-01" view-index="0" gantt-divider-location="524" resource-divider-location="300" version="2.0" locale="es">
     <description/>
-    <view zooming-state="default:6" id="gantt-chart">
+    <view zooming-state="default:8" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="75" order="0"/>
         <field id="tpd4" name="Fecha de inicio" width="11" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="12" order="2"/>
@@ -35,21 +35,28 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="Inicio del proyecto" color="#8cb6ce" meeting="false" start="2013-09-02" duration="60" complete="0" expand="true">
-            <task id="27" name="Proceso de despiece" color="#9999ff" meeting="false" start="2013-09-02" duration="60" complete="0" expand="true">
+        <task id="0" name="Inicio del proyecto" color="#8cb6ce" meeting="false" start="2013-09-02" duration="60" complete="0" expand="false">
+            <task id="27" name="Proceso de despiece" color="#9999ff" meeting="false" start="2013-09-02" duration="60" complete="0" expand="false">
                 <task id="30" name="Análisis LSHW" color="#ffff99" meeting="false" start="2013-09-02" duration="22" complete="0" expand="true"/>
                 <task id="32" name="Proceso LSHW" color="#ffff99" meeting="false" start="2013-10-08" duration="31" complete="0" expand="true"/>
                 <task id="34" name="Fases y metadatos en GatTracer" color="#ffff99" meeting="false" start="2013-10-30" duration="6" complete="0" expand="true"/>
                 <task id="37" name="Reciclado despiece" color="#ffff99" meeting="false" start="2013-09-02" duration="60" complete="0" expand="true"/>
                 <task id="39" name="Plantillas de información" color="#ffff99" meeting="false" start="2013-10-15" duration="29" complete="0" expand="true"/>
             </task>
-            <task id="41" name="Sistema de información" color="#9999ff" meeting="false" start="2013-10-01" duration="21" complete="0" expand="true">
+            <task id="41" name="Sistema de información" color="#9999ff" meeting="false" start="2013-10-01" duration="21" complete="0" expand="false">
                 <task id="43" name="Infraestructura base" color="#ffff99" meeting="false" start="2013-10-01" duration="21" complete="0" expand="true"/>
                 <task id="45" name="Información para la OMA" color="#ffff99" meeting="false" start="2013-10-15" duration="11" complete="0" expand="true"/>
                 <task id="47" name="Procesos similares en proyectos o empresas" color="#ffff99" meeting="false" start="2013-10-15" duration="7" complete="0" expand="true"/>
             </task>
         </task>
-        <task id="2" name="Demostrativo II" color="#8cb6ce" meeting="false" start="2013-09-25" duration="243" complete="0" expand="true">
+        <task id="65" name="Demostrativo B4-I" color="#8cb6ce" meeting="false" start="2013-09-02" duration="260" complete="0" expand="false">
+            <task id="67" name="Propuesta de esquema de instalación" color="#9999ff" meeting="false" start="2013-09-02" duration="87" complete="0" expand="true"/>
+            <task id="74" name="Instalación de sensores y adaptadores" color="#9999ff" meeting="false" start="2014-01-01" duration="64" complete="0" expand="true"/>
+            <task id="76" name="Prototipo del modelo funcional" color="#9999ff" meeting="false" start="2014-01-01" duration="64" complete="0" expand="true"/>
+            <task id="79" name="Desarrollo del software de control" color="#9999ff" meeting="false" start="2014-04-01" duration="44" complete="0" expand="true"/>
+            <task id="81" name="Implantación de indicadores de eficiencia energética" color="#9999ff" meeting="false" start="2014-06-02" duration="65" complete="0" expand="true"/>
+        </task>
+        <task id="2" name="Demostrativo B4-II" color="#8cb6ce" meeting="false" start="2013-09-25" duration="243" complete="0" expand="false">
             <task id="8" name="Diseño del módulo de 20 CPU" color="#66ffff" meeting="false" start="2013-09-25" duration="47" complete="0" expand="true">
                 <task id="56" name="Diseño del armario" color="#ffff99" meeting="false" start="2013-09-25" duration="47" complete="0" expand="true"/>
             </task>
@@ -57,7 +64,7 @@
             <task id="16" name="Prototipo de grid funcional" color="#66ffff" meeting="false" start="2014-01-01" duration="129" complete="0" expand="true"/>
             <task id="22" name="Prototipo de reutilización de calor generado CPU" color="#66ffff" meeting="false" start="2014-07-01" duration="44" complete="0" expand="true"/>
         </task>
-        <task id="4" name="Demostrativo III" color="#8cb6ce" meeting="false" start="2013-09-02" duration="260" complete="0" expand="true">
+        <task id="4" name="Demostrativo B4-III" color="#8cb6ce" meeting="false" start="2013-09-02" duration="260" complete="0" expand="false">
             <task id="9" name="Diseño del contendor de appliance" color="#66ffff" meeting="false" start="2013-09-02" duration="87" complete="0" expand="true"/>
             <task id="48" name="Completar equipos y comprobar completitud de los mismos" color="#ffff99" meeting="false" start="2013-10-30" duration="4" complete="0" expand="true"/>
             <task id="50" name="Identificar componentes" color="#ffff99" meeting="false" start="2013-10-30" duration="6" complete="0" expand="true"/>
@@ -65,6 +72,9 @@
             <task id="15" name="Integración de la distribución en el appliance" color="#66ffff" meeting="false" start="2014-01-01" duration="64" complete="0" expand="true"/>
             <task id="19" name="Instalación y configuración del appliance" color="#66ffff" meeting="false" start="2014-04-01" duration="65" complete="0" expand="true"/>
             <task id="25" name="Informe de resultados de actuación del appliance" color="#66ffff" meeting="false" start="2014-07-01" duration="44" complete="0" expand="true"/>
+        </task>
+        <task id="66" name="Demostrativo B4-IV" color="#8cb6ce" meeting="false" start="2013-09-02" duration="87" complete="0" expand="false">
+            <task id="72" name="Adaptación de Pcs reutilizados" color="#9999ff" meeting="false" start="2013-09-02" duration="87" complete="0" expand="true"/>
         </task>
         <task id="6" name="Justificación" color="#8cb6ce" meeting="false" start="2014-06-02" duration="65" complete="0" expand="true"/>
     </tasks>
