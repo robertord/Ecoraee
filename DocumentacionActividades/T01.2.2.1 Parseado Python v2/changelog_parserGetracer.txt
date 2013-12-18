@@ -1,0 +1,14 @@
+Nombre :parserGetracer
+
+Versión: v2 
+
+Autor:Manuel Cid Gómez
+
+fecha creación : 12/12/2013
+
+Modificaciones: Esta versión nueva incluye un Menú en el cual nos da a elegir las opciones de : insertar todos los elementos(para eso solo tendremos que esperar un determidado tiempo y el script ya lo hace automáticamente el) o insertar elementos individualmente.
+Explicando más detalladamente,en el menú de elección de opción si esperas 10 segundos automaticamente hace la insercion de todos los elementos,pero si queremos la otra opción de los elementos individualmente,pues pulsamos SOLO la tecla 1.
+Haciendo esto nos irá mostrando uno a uno todos los elementos del equipo,con la opción de insertar o no,para insertar pulsaremos la tecla 's' (minuscula solo) en el caso de pasar de ese elemento y no insertarlo pulsamos la tecla 'n' (o cualquiera otra quitando 's').
+Fin.
+
+Posibles modificaciones futuras: Insertar mas tipos de elementos a procesar.
