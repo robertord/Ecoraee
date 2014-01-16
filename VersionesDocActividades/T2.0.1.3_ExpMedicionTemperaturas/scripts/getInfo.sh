@@ -12,7 +12,7 @@ echo " ">>$FILE
 echo "Uptime: "`uptime`>>$FILE
 ##capturar con top estado de cpu en el momento
 echo " ">>$FILE
-top -n1 | grep "Cpu(s)" >>$FILE
+top -b -n1 | grep "Cpu(s)" >>$FILE
 ##captura de la temperatura desde los distintos sensores
 echo " ">>$FILE
 sensors >> $FILE

@@ -1,0 +1,925 @@
+ 
+ 
+================================
+  Fecha: 2014.01.15 14:15
+================================
+ 
+Uptime:  14:15:01 up 5 days, 1:31, 2 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +34.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 14:30
+================================
+ 
+Uptime:  14:30:01 up 5 days, 1:46, 2 users, load average: 1.00, 0.94, 0.62
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +41.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 14:45
+================================
+ 
+Uptime:  14:45:02 up 5 days, 2:01, 2 users, load average: 1.02, 1.00, 0.86
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +43.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 15:00
+================================
+ 
+Uptime:  15:00:01 up 5 days, 2:16, 2 users, load average: 1.00, 1.00, 0.95
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +43.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 15:15
+================================
+ 
+Uptime:  15:15:01 up 5 days, 2:31, 2 users, load average: 1.00, 1.00, 0.95
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +44.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 15:30
+================================
+ 
+Uptime:  15:30:01 up 5 days, 2:46, 2 users, load average: 1.00, 1.00, 0.95
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 15:45
+================================
+ 
+Uptime:  15:45:01 up 5 days, 3:01, 2 users, load average: 1.00, 1.00, 0.95
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 16:00
+================================
+ 
+Uptime:  16:00:01 up 5 days, 3:16, 2 users, load average: 1.00, 1.00, 0.95
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 16:15
+================================
+ 
+Uptime:  16:15:01 up 5 days, 3:31, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +44.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 16:30
+================================
+ 
+Uptime:  16:30:01 up 5 days, 3:46, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +44.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 16:45
+================================
+ 
+Uptime:  16:45:01 up 5 days, 4:01, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +44.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 17:00
+================================
+ 
+Uptime:  17:00:01 up 5 days, 4:16, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 17:15
+================================
+ 
+Uptime:  17:15:01 up 5 days, 4:31, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 17:30
+================================
+ 
+Uptime:  17:30:01 up 5 days, 4:46, 2 users, load average: 1.00, 1.01, 0.96
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 17:45
+================================
+ 
+Uptime:  17:45:01 up 5 days, 5:01, 2 users, load average: 1.00, 1.01, 0.97
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 18:00
+================================
+ 
+Uptime:  18:00:01 up 5 days, 5:16, 2 users, load average: 1.00, 1.01, 0.97
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 18:15
+================================
+ 
+Uptime:  18:15:01 up 5 days, 5:31, 2 users, load average: 1.00, 1.01, 0.97
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +47.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 18:30
+================================
+ 
+Uptime:  18:30:01 up 5 days, 5:46, 2 users, load average: 1.00, 1.01, 0.97
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +47.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 18:45
+================================
+ 
+Uptime:  18:45:01 up 5 days, 6:01, 2 users, load average: 1.00, 1.01, 0.97
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 19:00
+================================
+ 
+Uptime:  19:00:01 up 5 days, 6:16, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 19:15
+================================
+ 
+Uptime:  19:15:01 up 5 days, 6:31, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +47.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 19:30
+================================
+ 
+Uptime:  19:30:01 up 5 days, 6:46, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 19:45
+================================
+ 
+Uptime:  19:45:01 up 5 days, 7:01, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 20:00
+================================
+ 
+Uptime:  20:00:01 up 5 days, 7:16, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 20:15
+================================
+ 
+Uptime:  20:15:01 up 5 days, 7:31, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +45.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 20:30
+================================
+ 
+Uptime:  20:30:01 up 5 days, 7:46, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 20:45
+================================
+ 
+Uptime:  20:45:01 up 5 days, 8:01, 2 users, load average: 1.00, 1.01, 0.98
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +46.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 21:00
+================================
+ 
+Uptime:  21:00:01 up 5 days, 8:16, 1 user, load average: 0.00, 0.18, 0.56
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +39.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 21:15
+================================
+ 
+Uptime:  21:15:01 up 5 days, 8:31, 1 user, load average: 0.00, 0.01, 0.21
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +36.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 21:30
+================================
+ 
+Uptime:  21:30:01 up 5 days, 8:46, 1 user, load average: 0.00, 0.01, 0.09
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +35.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 21:45
+================================
+ 
+Uptime:  21:45:01 up 5 days, 9:01, 1 user, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +35.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 22:00
+================================
+ 
+Uptime:  22:00:01 up 5 days, 9:16, 1 user, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 22:15
+================================
+ 
+Uptime:  22:15:01 up 5 days, 9:31, 1 user, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 22:30
+================================
+ 
+Uptime:  22:30:01 up 5 days, 9:46, 1 user, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 22:45
+================================
+ 
+Uptime:  22:45:01 up 5 days, 10:01, 1 user, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 23:00
+================================
+ 
+Uptime:  23:00:01 up 5 days, 10:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 23:15
+================================
+ 
+Uptime:  23:15:01 up 5 days, 10:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 23:30
+================================
+ 
+Uptime:  23:30:01 up 5 days, 10:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.15 23:45
+================================
+ 
+Uptime:  23:45:01 up 5 days, 11:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 00:00
+================================
+ 
+Uptime:  00:00:01 up 5 days, 11:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +33.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 00:15
+================================
+ 
+Uptime:  00:15:01 up 5 days, 11:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 00:30
+================================
+ 
+Uptime:  00:30:01 up 5 days, 11:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 00:45
+================================
+ 
+Uptime:  00:45:01 up 5 days, 12:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 01:00
+================================
+ 
+Uptime:  01:00:01 up 5 days, 12:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 01:15
+================================
+ 
+Uptime:  01:15:01 up 5 days, 12:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 01:30
+================================
+ 
+Uptime:  01:30:01 up 5 days, 12:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 01:45
+================================
+ 
+Uptime:  01:45:01 up 5 days, 13:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 02:00
+================================
+ 
+Uptime:  02:00:01 up 5 days, 13:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 02:15
+================================
+ 
+Uptime:  02:15:01 up 5 days, 13:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 02:30
+================================
+ 
+Uptime:  02:30:01 up 5 days, 13:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 02:45
+================================
+ 
+Uptime:  02:45:01 up 5 days, 14:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 03:00
+================================
+ 
+Uptime:  03:00:01 up 5 days, 14:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 03:15
+================================
+ 
+Uptime:  03:15:01 up 5 days, 14:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 03:30
+================================
+ 
+Uptime:  03:30:01 up 5 days, 14:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 03:45
+================================
+ 
+Uptime:  03:45:01 up 5 days, 15:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 04:00
+================================
+ 
+Uptime:  04:00:01 up 5 days, 15:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 04:15
+================================
+ 
+Uptime:  04:15:01 up 5 days, 15:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 04:30
+================================
+ 
+Uptime:  04:30:02 up 5 days, 15:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 04:45
+================================
+ 
+Uptime:  04:45:01 up 5 days, 16:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 05:00
+================================
+ 
+Uptime:  05:00:01 up 5 days, 16:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 05:15
+================================
+ 
+Uptime:  05:15:01 up 5 days, 16:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 05:30
+================================
+ 
+Uptime:  05:30:01 up 5 days, 16:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 05:45
+================================
+ 
+Uptime:  05:45:01 up 5 days, 17:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 06:00
+================================
+ 
+Uptime:  06:00:01 up 5 days, 17:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 06:15
+================================
+ 
+Uptime:  06:15:01 up 5 days, 17:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 06:30
+================================
+ 
+Uptime:  06:30:01 up 5 days, 17:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 06:45
+================================
+ 
+Uptime:  06:45:01 up 5 days, 18:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 07:00
+================================
+ 
+Uptime:  07:00:01 up 5 days, 18:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 07:15
+================================
+ 
+Uptime:  07:15:01 up 5 days, 18:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 07:30
+================================
+ 
+Uptime:  07:30:01 up 5 days, 18:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 07:45
+================================
+ 
+Uptime:  07:45:01 up 5 days, 19:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 08:00
+================================
+ 
+Uptime:  08:00:01 up 5 days, 19:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 08:15
+================================
+ 
+Uptime:  08:15:01 up 5 days, 19:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 08:30
+================================
+ 
+Uptime:  08:30:01 up 5 days, 19:46, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +30.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 08:45
+================================
+ 
+Uptime:  08:45:02 up 5 days, 20:01, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +31.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 09:00
+================================
+ 
+Uptime:  09:00:01 up 5 days, 20:16, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
+ 
+================================
+  Fecha: 2014.01.16 09:15
+================================
+ 
+Uptime:  09:15:01 up 5 days, 20:31, 0 users, load average: 0.00, 0.01, 0.05
+ 
+ 
+k8temp-pci-00c3
+Adapter: PCI adapter
+Core0 Temp:   +32.0°C  
+
