@@ -1,0 +1,21 @@
+
+Nombre : parserGetracerv3.py
+Creado por: Roberto Rosende Dopazo y Manuel Cid Gómez
+Fecha : 11/03/2014
+Formato : Python (.py)
+Versión : v3
+
+-Funcionalidad:
+
+Ahora en esta nueva versión permite idenfiticar quien usa el script y además poder capturar su IP. Corrige los errores que ofrecia
+la versión anterior con las llamadas TTY. Crea el changelog el script mismo y ademas renombra los ficheros y los mueve a sus
+carpetas correspondientes.Soluciona también algunos errores en la inscerción por problemas de '' o . 
+
+Incluye separación de la conexion de la base de datos (usuario,contraseña,etc) que va estar en un fichero aparte llamado
+Conexion.py .
+
+-Ejecución : 
+
+Para poder ejecutar el programa en linux usamos el siguiente comando
+
+		python parserGetracer.py [nombre del fichero xml] [ip]
